@@ -1,42 +1,36 @@
 # StudyOnTV 一年级上题库
+给「题了个题」（[StudyOnTV](https://github.com/chadyi/StudyOnTV)）用的一年级上学期题库集合，按官方[题库格式](https://github.com/chadyi/StudyOnTV/blob/main/docs/question-format.md)整理，在家长面板「题库 → 在线题库」里填地址即可添加。
 
-给「题了个题」（[StudyOnTV](https://github.com/chadyi/StudyOnTV)）用的一年级上学期题库，按官方[题库格式](https://github.com/chadyi/StudyOnTV/blob/main/docs/question-format.md)整理，可直接在家长面板「题库 → 在线题库」里添加。
+## 已有题库
+| 名称 | 题量 | 学科 | 年级 | 题型 | 许可 | 详细说明 | 文件 |
+|---|---|---|---|---|---|---|---|
+| 一年级上 · 语文数学常识题库 | 3916 | 语文/数学/常识/英语 | 一年级 | 单选/判断/多选 | CC BY 4.0 | [说明](./banks/grade1-general.md) | [json](./banks/grade1-general.json) |
 
-## 内容
-
-| 项目 | 值 |
-|---|---|
-| 题数 | 3916 |
-| 学科 | 语文 1793、数学 1853、常识 208、英语 62 |
-| 年级 | 一年级（上期） |
-| 题型 | 单选 3108、判断 617、多选 191 |
-| 解析 | 每题都有（`tip` 字段） |
-| 题库名 | 一年级上 · 语文数学常识题库 |
-
-知识点覆盖：拼音（声母 / 韵母 / 整体认读音节 / 声调标调 / 音节拼读）、识字写字（字音字形、笔顺笔画）、偏旁部首、词语（量词、反义词）、课文古诗、10 以内加减与比较排序、生活中的安全与文明常识、英语基础词汇。
+- 总题量 **3916 道**，每题带解析；
+- 学科：语文 1793、数学 1853、常识 208、英语 62；
+- 知识点：拼音（声母/韵母/整体认读/声调/拼读）、识字写字、偏旁部首、词语、课文古诗、口算与应用、生活常识、英语基础。
 
 ## 怎么用
+**方式一：家长面板在线添加（推荐）**
 
-**方式一：家长面板添加（推荐）**
-
-1. 打开「题了个题」家长面板 → 题库 → 在线题库；
-2. 填入下面任一地址：
+1. 打开家长面板 → 题库 → 在线题库；
+2. 填入题库地址：
 
 ```
 https://raw.githubusercontent.com/missyouling/studyontv-banks/main/banks/grade1-general.json
 ```
 
-或 CDN 加速地址：
+CDN 加速地址：
 
 ```
 https://cdn.jsdelivr.net/gh/missyouling/studyontv-banks@main/banks/grade1-general.json
 ```
 
-3. 确认后 App 会去重导入，同一道题不会重复加。
+3. 确认后 App 会按题干去重导入，不会和已有题目重复叠加。
 
 **方式二：本地导入**
 
-下载 `banks/grade1-general.json`，在家长面板「题库 → 导入」里选择该文件即可。
+下载对应的 `banks/*.json`，在「题库 → 导入」里选择文件，解析预览后确认导入。
 
 **方式三：API**
 
@@ -47,31 +41,26 @@ curl -X POST http://<设备地址>:8099/api/questions \
   -d @banks/grade1-general.json
 ```
 
-## 文件结构
-
+## 仓库结构
 ```
 .
-├── index.json                  # 题库索引（name / count / sha256 / 下载地址）
+├── index.json                      # 题库索引（名称/题数/许可/sha256/下载地址）
 ├── banks/
-│   └── grade1-general.json     # 题库本体，version 2 格式
-├── LICENSE                     # CC BY 4.0
-└── README.md
+│   ├── grade1-general.json         # 题库本体（version 2）
+│   └── grade1-general.md           # 该题库的详细说明：选题、题型、难度、例题
+├── README.md                       # 本文件：方向概述、使用方法、题库清单
+└── LICENSE                         # CC BY 4.0
 ```
 
-`banks/grade1-general.json` 顶部字段：`name`、`version`（2）、`subject`、`level`、`author`、`license`、`description`、`items`。
+## 题库规范
+每份题库是一个 `.json` 文件，放在 `banks/` 下，顶部字段 `name`、`version: 2`、`subject`、`level`、`author`、`license`、`description`，题目放在 `items` 里；每份题库配一份同名 `.md` 说明文档（`banks/<文件名>.md`），写清选题范围、题型与难度、典型例题和使用建议。
 
-## 数据来源
+字段与校验细则见官方文档：[题库格式参考](https://github.com/chadyi/StudyOnTV/blob/main/docs/question-format.md)。
 
-本仓库题目由家长自行整理与生成，含人工校对与规则校验：
-
-- 题干唯一，无重复题；
-- 选项 2–8 个、无空项、无重复项；
-- 单选 `k` 与多选 `correctIndices` 全部落在选项范围内；
-- 判断题选项固定为「正确 / 错误」，`k` 为 0 / 1；
-- 难度统一在 1–5 星。
-
-不包含任何孩子的姓名、学校、住址等个人信息。
+## 数据校验
+- 题干全局唯一；选项 2–8 个、无空项；答案下标不越界；
+- 判断题选项固定「正确 / 错误」；难度统一 1–5 星；
+- 全部题目带解析；不含孩子姓名、学校、住址等个人信息。
 
 ## 许可
-
-题库内容按 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 授权，转载或改编请注明来源。
+题库内容按 [CC BY 4.0](./LICENSE) 授权，转载或改编请注明来源。
