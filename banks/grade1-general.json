@@ -5068,23 +5068,6 @@
    "language": "zh-CN"
   },
   {
-   "type": "single",
-   "q": "《咏鹅》中“鹅，鹅，鹅”的下一句是？",
-   "difficulty": 2,
-   "a": [
-    "曲项向天歌",
-    "白毛浮绿水",
-    "红掌拨清波",
-    "鹅鹅鹅曲项"
-   ],
-   "k": 0,
-   "tip": "《咏鹅》：鹅，鹅，鹅，曲项向天歌。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
    "type": "multiple",
    "q": "“圆柱”、“球”、“圆形”、“正方形”中，哪些是立体图形？",
    "difficulty": 3,
@@ -17763,23 +17746,6 @@
    "language": "zh-CN"
   },
   {
-   "type": "single",
-   "q": "一年有几个季节？",
-   "difficulty": 2,
-   "a": [
-    "3个",
-    "4个",
-    "12个",
-    "2个"
-   ],
-   "k": 1,
-   "tip": "常识题",
-   "subject": "常识",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
    "type": "boolean",
    "q": "“h”是韵母。",
    "difficulty": 1,
@@ -21451,27 +21417,6 @@
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "multiple",
-   "q": "下列哪些是数字？",
-   "difficulty": 3,
-   "a": [
-    "four",
-    "five",
-    "book",
-    "six"
-   ],
-   "correctIndices": [
-    0,
-    1,
-    3
-   ],
-   "tip": "four、five、six 是数字，book 是文具。",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
    "language": "zh-CN"
   },
   {
@@ -25971,23 +25916,6 @@
   },
   {
    "type": "single",
-   "q": "请把下列汉字按表示数字从小到大的顺序排列。（选出排列正确的一项）",
-   "difficulty": 2,
-   "a": [
-    "一、二、三、四",
-    "四、一、三、二",
-    "三、一、二、四",
-    "二、一、四、三"
-   ],
-   "k": 0,
-   "tip": "正确答案是「一、二、三、四」，注意拼音、字形和用词规则。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "人教版·语文·一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "4和3合起来是（　）？",
    "difficulty": 1,
    "a": [
@@ -28509,23 +28437,6 @@
   },
   {
    "type": "single",
-   "q": "“大”的反义词是？",
-   "difficulty": 1,
-   "a": [
-    "多",
-    "上",
-    "小",
-    "下"
-   ],
-   "k": 2,
-   "tip": "大—小",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "“二”和“虫”两个字一共有几笔？",
    "difficulty": 4,
    "a": [
@@ -29570,23 +29481,6 @@
   },
   {
    "type": "single",
-   "q": "将下列单词排成正确的句子。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "I、like、apples",
-    "apples、like、I",
-    "apples、I、like",
-    "I、apples、like"
-   ],
-   "k": 0,
-   "tip": "正确句子是 I like apples.",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "4 和 10 比，哪个数大？",
    "difficulty": 1,
    "a": [
@@ -30198,23 +30092,6 @@
    "k": 0,
    "tip": "比较大小",
    "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "一（　）树，括号里应填哪个量词？",
-   "difficulty": 2,
-   "a": [
-    "本",
-    "朵",
-    "片",
-    "棵"
-   ],
-   "k": 3,
-   "tip": "量词搭配",
-   "subject": "语文",
    "level": "一年级",
    "bank": "豆包题库一上",
    "language": "zh-CN"
@@ -35298,23 +35175,6 @@
   },
   {
    "type": "single",
-   "q": "把下面算式按得数从大到小排序。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "8+9、9+7、6+8、5+7",
-    "8+9、6+8、9+7、5+7",
-    "5+7、9+7、8+9、6+8",
-    "9+7、5+7、8+9、6+8"
-   ],
-   "k": 0,
-   "tip": "正确答案是「8+9、9+7、6+8、5+7」。",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "北师大版·数学·一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "图中有6只小羊，又飞来2只。要求“一共有多少只”，正确的算式是？",
    "difficulty": 3,
    "a": [
@@ -37411,23 +37271,6 @@
   },
   {
    "type": "single",
-   "q": "音节「bǐ」的声母是什么？",
-   "difficulty": 2,
-   "a": [
-    "h",
-    "k",
-    "d",
-    "b"
-   ],
-   "k": 3,
-   "tip": "「bǐ」声母是 b。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "一上·拼音补题·音节拼读",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "算一算：3＋9－4＝？",
    "difficulty": 4,
    "a": [
@@ -37718,23 +37561,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "一上·拼音补题·整体认读音节"
-  },
-  {
-   "type": "single",
-   "q": "把下面算式按得数从大到小排序。（选出排列正确的一项）",
-   "difficulty": 3,
-   "a": [
-    "10-1、5+3、9-2、3+3",
-    "10-1、9-2、5+3、3+3",
-    "9-2、5+3、10-1、3+3",
-    "9-2、10-1、5+3、3+3"
-   ],
-   "k": 0,
-   "tip": "正确答案是「10-1、5+3、9-2、3+3」。",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "北师大版·数学·一上",
-   "language": "zh-CN"
   },
   {
    "type": "single",
@@ -39231,23 +39057,6 @@
   },
   {
    "type": "single",
-   "q": "一（　）树叶，括号里应填哪个量词？",
-   "difficulty": 2,
-   "a": [
-    "架",
-    "片",
-    "杯",
-    "块"
-   ],
-   "k": 1,
-   "tip": "一片树叶",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "与9相邻的两个数是？",
    "difficulty": 2,
    "a": [
@@ -39512,23 +39321,6 @@
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "请把下列汉字按表示数字从小到大的顺序排列。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "七、八、九、十",
-    "八、七、九、十",
-    "八、九、七、十",
-    "十、九、七、八"
-   ],
-   "k": 0,
-   "tip": "七、八、九、十按从小到大为七、八、九、十。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "人教版·语文·一上",
    "language": "zh-CN"
   },
   {
@@ -40753,23 +40545,6 @@
    "k": 2,
    "tip": "偏旁口",
    "subject": "语文",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "算一算：7＋4＝？",
-   "difficulty": 2,
-   "a": [
-    "12",
-    "13",
-    "11",
-    "10"
-   ],
-   "k": 2,
-   "tip": "凑十法：7+4=11",
-   "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
    "language": "zh-CN"
@@ -43062,23 +42837,6 @@
    "language": "zh-CN"
   },
   {
-   "type": "single",
-   "q": "“二十”写作数字是？",
-   "difficulty": 2,
-   "a": [
-    "12",
-    "20",
-    "21",
-    "2"
-   ],
-   "k": 1,
-   "tip": "二十=20",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
    "type": "boolean",
    "q": "图中有2个，又有9个，一共有11个。",
    "difficulty": 3,
@@ -43284,23 +43042,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "一上·词语补题"
-  },
-  {
-   "type": "single",
-   "q": "算一算：8－3＝？",
-   "difficulty": 1,
-   "a": [
-    "11",
-    "5",
-    "6",
-    "7"
-   ],
-   "k": 1,
-   "tip": "8-3=5",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
   },
   {
    "type": "single",
@@ -43603,23 +43344,6 @@
    ],
    "k": 1,
    "tip": "3+8=11",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "算一算：2＋9＝？",
-   "difficulty": 2,
-   "a": [
-    "10",
-    "12",
-    "11",
-    "13"
-   ],
-   "k": 2,
-   "tip": "凑十法：2+9=11",
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
@@ -45080,27 +44804,6 @@
    "language": "zh-CN"
   },
   {
-   "type": "multiple",
-   "q": "下列哪些是动物？",
-   "difficulty": 3,
-   "a": [
-    "tiger",
-    "lion",
-    "red",
-    "panda"
-   ],
-   "correctIndices": [
-    0,
-    1,
-    3
-   ],
-   "tip": "tiger、lion、panda 是动物，red 是颜色。",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
-   "language": "zh-CN"
-  },
-  {
    "type": "single",
    "q": "计算8＋8时，先把8分成2和几？",
    "difficulty": 3,
@@ -45721,23 +45424,6 @@
    "language": "zh-CN"
   },
   {
-   "type": "single",
-   "q": "春节是农历的哪一天？",
-   "difficulty": 1,
-   "a": [
-    "正月初一",
-    "正月十五",
-    "八月十五",
-    "腊月三十"
-   ],
-   "k": 0,
-   "tip": "春节是农历正月初一。",
-   "subject": "常识",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
    "type": "boolean",
    "q": "图中有5个，又有2个，一共有8个。",
    "difficulty": 3,
@@ -45797,23 +45483,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "把下面数字按从大到小排序。（选出排列正确的一项）",
-   "difficulty": 3,
-   "a": [
-    "10、9、8、7",
-    "8、9、7、10",
-    "9、7、8、10",
-    "7、9、8、10"
-   ],
-   "k": 0,
-   "tip": "正确答案是「10、9、8、7」。",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "北师大版·数学·一上",
    "language": "zh-CN"
   },
   {
@@ -46507,23 +46176,6 @@
   },
   {
    "type": "single",
-   "q": "15的十位上的数是几？",
-   "difficulty": 2,
-   "a": [
-    "5",
-    "0",
-    "10",
-    "1"
-   ],
-   "k": 3,
-   "tip": "1个十",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "图上原来有2个气球，又拿来5个，后来飞走1个，现在有几个？",
    "difficulty": 4,
    "a": [
@@ -46844,23 +46496,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "一上·课文古诗补题"
-  },
-  {
-   "type": "single",
-   "q": "把下面时间按从早到晚排序。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "8时、9时、10时半、11时半",
-    "10时半、8时、11时半、9时",
-    "9时、8时、11时半、10时半",
-    "11时半、8时、9时、10时半"
-   ],
-   "k": 0,
-   "tip": "正确答案是「8时、9时、10时半、11时半」。",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "北师大版·数学·一上",
-   "language": "zh-CN"
   },
   {
    "type": "single",
@@ -48673,23 +48308,6 @@
   },
   {
    "type": "single",
-   "q": "把下面数按从小到大排序。（选出排列正确的一项）",
-   "difficulty": 3,
-   "a": [
-    "12、15、18、20",
-    "12、20、18、15",
-    "18、20、12、15",
-    "18、12、20、15"
-   ],
-   "k": 0,
-   "tip": "正确答案是「12、15、18、20」。",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "北师大版·数学·一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "“苗”字的偏旁是？",
    "difficulty": 3,
    "a": [
@@ -50206,23 +49824,6 @@
    "language": "zh-CN"
   },
   {
-   "type": "single",
-   "q": "与6相邻的两个数是？",
-   "difficulty": 2,
-   "a": [
-    "5和7",
-    "6和8",
-    "7和8",
-    "4和6"
-   ],
-   "k": 0,
-   "tip": "相邻数",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
    "type": "boolean",
    "q": "“口、日、目”都是独体字。",
    "difficulty": 2,
@@ -50564,23 +50165,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "将下列动物单词按首字母在字母表中的顺序排列。（选出排列正确的一项）",
-   "difficulty": 3,
-   "a": [
-    "cat、dog、duck、pig",
-    "duck、pig、dog、cat",
-    "dog、duck、pig、cat",
-    "dog、pig、duck、cat"
-   ],
-   "k": 0,
-   "tip": "首字母顺序是 c、d、d、p，cat、dog、duck、pig。",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
    "language": "zh-CN"
   },
   {
@@ -51736,23 +51320,6 @@
   },
   {
    "type": "single",
-   "q": "音节「cǎo」的声母是什么？",
-   "difficulty": 2,
-   "a": [
-    "c",
-    "sh",
-    "b",
-    "m"
-   ],
-   "k": 0,
-   "tip": "「cǎo」声母是 c。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "一上·拼音补题·音节拼读",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "1 和 9 比，哪个数小？",
    "difficulty": 1,
    "a": [
@@ -52503,23 +52070,6 @@
    "difficulty": 3,
    "k": 0,
    "tip": "中间有介母u或i",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "“千里之行”的下一句是？",
-   "difficulty": 2,
-   "a": [
-    "一日之计在于晨",
-    "始于足下",
-    "种瓜得瓜",
-    "一寸光阴一寸金"
-   ],
-   "k": 1,
-   "tip": "千里之行，始于足下",
    "subject": "语文",
    "level": "一年级",
    "bank": "豆包题库一上",
@@ -53603,22 +53153,6 @@
   },
   {
    "type": "single",
-   "q": "一（　）笔，括号里应填哪个量词？",
-   "difficulty": 2,
-   "a": [
-    "只",
-    "张",
-    "辆",
-    "支"
-   ],
-   "k": 3,
-   "tip": "一支笔。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "一上·词语补题"
-  },
-  {
-   "type": "single",
    "q": "计算3＋9时，3和7凑成10，10再加2等于？",
    "difficulty": 3,
    "a": [
@@ -54019,27 +53553,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "multiple",
-   "q": "下列哪些是家庭成员？",
-   "difficulty": 2,
-   "a": [
-    "mother",
-    "father",
-    "teacher",
-    "sister"
-   ],
-   "correctIndices": [
-    0,
-    1,
-    3
-   ],
-   "tip": "mother、father、sister 是家庭成员，teacher 是老师。",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
    "language": "zh-CN"
   },
   {
@@ -54812,23 +54325,6 @@
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "音节「tíng」是第几声？",
-   "difficulty": 1,
-   "a": [
-    "第四声",
-    "第二声",
-    "第一声",
-    "第三声"
-   ],
-   "k": 1,
-   "tip": "「tíng」是第二声。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "一上·拼音补题·声调标调",
    "language": "zh-CN"
   },
   {
@@ -56664,23 +56160,6 @@
   },
   {
    "type": "single",
-   "q": "17的十位上的数是几？",
-   "difficulty": 2,
-   "a": [
-    "0",
-    "7",
-    "10",
-    "1"
-   ],
-   "k": 3,
-   "tip": "17=1个十和7个一",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "计算6＋9时，先把9分成4和几？",
    "difficulty": 3,
    "a": [
@@ -58067,23 +57546,6 @@
   },
   {
    "type": "single",
-   "q": "将下列单词排成正确的句子。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "May、I、have、a、pie",
-    "I、have、a、May、pie",
-    "have、a、I、May、pie",
-    "May、I、have、pie、a"
-   ],
-   "k": 0,
-   "tip": "正确句子是 May I have a pie?",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "《咏鹅》中“向天歌”的意思是？",
    "difficulty": 2,
    "a": [
@@ -58326,27 +57788,6 @@
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "multiple",
-   "q": "下列哪些是动物？",
-   "difficulty": 2,
-   "a": [
-    "cat",
-    "dog",
-    "red",
-    "pig"
-   ],
-   "correctIndices": [
-    0,
-    1,
-    3
-   ],
-   "tip": "cat、dog、pig 是动物，red 是颜色。",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
    "language": "zh-CN"
   },
   {
@@ -58884,23 +58325,6 @@
   },
   {
    "type": "single",
-   "q": "将下列单词排成正确的句子。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "I'm、a、boy",
-    "a、I'm、boy",
-    "I'm、boy、a",
-    "boy、I'm、a"
-   ],
-   "k": 0,
-   "tip": "正确句子是 I'm a boy.",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "“书”字一共有几笔？",
    "difficulty": 2,
    "a": [
@@ -59343,23 +58767,6 @@
   },
   {
    "type": "single",
-   "q": "一（　）牛，括号里应填哪个量词？",
-   "difficulty": 2,
-   "a": [
-    "本",
-    "条",
-    "朵",
-    "头"
-   ],
-   "k": 3,
-   "tip": "量词搭配",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "计算：1＋4＝？",
    "difficulty": 1,
    "a": [
@@ -59370,23 +58777,6 @@
    ],
    "k": 3,
    "tip": "1+4=5",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "9后面的一个数是？",
-   "difficulty": 1,
-   "a": [
-    "11",
-    "8",
-    "7",
-    "10"
-   ],
-   "k": 3,
-   "tip": "数序",
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
@@ -59462,23 +58852,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "音节「bǐ」的韵母是什么？",
-   "difficulty": 2,
-   "a": [
-    "i",
-    "ü",
-    "in",
-    "ang"
-   ],
-   "k": 0,
-   "tip": "「bǐ」韵母是 i。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "一上·拼音补题·音节拼读",
    "language": "zh-CN"
   },
   {
@@ -59757,23 +59130,6 @@
   },
   {
    "type": "single",
-   "q": "算一算：10－6＝？",
-   "difficulty": 1,
-   "a": [
-    "4",
-    "16",
-    "5",
-    "6"
-   ],
-   "k": 0,
-   "tip": "10-6=4",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "皮球、篮球、乒乓球都是什么形状？",
    "difficulty": 3,
    "a": [
@@ -59868,23 +59224,6 @@
    "language": "zh-CN"
   },
   {
-   "type": "single",
-   "q": "“目”字一共有几画？",
-   "difficulty": 2,
-   "a": [
-    "6画",
-    "4画",
-    "3画",
-    "5画"
-   ],
-   "k": 3,
-   "tip": "竖、横折、横、横、横",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "一年级语文·试卷题库",
-   "language": "zh-CN"
-  },
-  {
    "type": "multiple",
    "q": "“牙膏盒”、“纸箱”、“皮球”、“乒乓球”中，哪些物体能堆叠摆放？",
    "difficulty": 4,
@@ -59902,27 +59241,6 @@
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "multiple",
-   "q": "下列哪些是文具？",
-   "difficulty": 3,
-   "a": [
-    "book",
-    "bag",
-    "apple",
-    "pencil"
-   ],
-   "correctIndices": [
-    0,
-    1,
-    3
-   ],
-   "tip": "book、bag、pencil 是文具，apple 是水果。",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
    "language": "zh-CN"
   },
   {
@@ -60392,23 +59710,6 @@
    "subject": "语文",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "音节「shū」的声母是什么？",
-   "difficulty": 2,
-   "a": [
-    "l",
-    "sh",
-    "d",
-    "r"
-   ],
-   "k": 1,
-   "tip": "「shū」声母是 sh。",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "一上·拼音补题·音节拼读",
    "language": "zh-CN"
   },
   {
@@ -61109,23 +60410,6 @@
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "把下面算式按得数从小到大排序。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "12-7、13-6、15-7、14-5",
-    "14-5、15-7、12-7、13-6",
-    "12-7、13-6、14-5、15-7",
-    "12-7、15-7、13-6、14-5"
-   ],
-   "k": 0,
-   "tip": "正确答案是「12-7、13-6、15-7、14-5」。",
-   "subject": "数学",
-   "level": "一年级",
-   "bank": "北师大版·数学·一上",
    "language": "zh-CN"
   },
   {
@@ -62479,23 +61763,6 @@
   },
   {
    "type": "single",
-   "q": "“来”的反义词是？",
-   "difficulty": 1,
-   "a": [
-    "大",
-    "去",
-    "下",
-    "上"
-   ],
-   "k": 1,
-   "tip": "来—去",
-   "subject": "语文",
-   "level": "一年级",
-   "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
    "q": "1个十和2个一合起来是多少？",
    "difficulty": 3,
    "a": [
@@ -62616,23 +61883,6 @@
    "subject": "数学",
    "level": "一年级",
    "bank": "豆包题库一上",
-   "language": "zh-CN"
-  },
-  {
-   "type": "single",
-   "q": "将下列单词排成正确的句子。（选出排列正确的一项）",
-   "difficulty": 4,
-   "a": [
-    "This、is、my、mother",
-    "mother、is、my、This",
-    "is、mother、my、This",
-    "This、is、mother、my"
-   ],
-   "k": 0,
-   "tip": "正确句子是 This is my mother.",
-   "subject": "英语",
-   "level": "一年级",
-   "bank": "沪教版·英语·一上",
    "language": "zh-CN"
   },
   {
