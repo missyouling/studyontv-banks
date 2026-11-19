@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "name": "koujiang 一年级上题库",
+  "banks": [
+    {
+      "name": "一年级上 · 语文数学常识题库",
+      "subject": "综合",
+      "level": "一年级",
+      "count": 3959,
+      "author": "koujiang",
+      "license": "CC BY 4.0",
+      "description": "一年级上学期语文、数学、常识与英语题库，含拼音声母韵母整体认读、声调、音节拼读、识字写字、偏旁部首、词语、课文古诗及口算应用题，每题带解析。",
+      "file": "grade1-general.json",
+      "url": "https://cdn.jsdelivr.net/gh/missyouling/studyontv-banks@main/banks/grade1-general.json",
+      "mirror": "https://raw.githubusercontent.com/missyouling/studyontv-banks/main/banks/grade1-general.json",
+      "sha256": "103180473761103b9177103d0f5e159c46106c5f13815bf7ba579f93ffa31d9b"
+    }
+  ]
+}
