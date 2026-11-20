@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "name": "QA变体模式测试",
+    "description": "",
+    "version": "1.0.0",
+    "author": "642db545-7858-458a-9add-4931f337ce32",
+    "license": "CC BY 4.0",
+    "createdAt": "2026-11-19T21:05:32.535Z",
+    "updatedAt": "2026-11-19T21:35:52.357Z",
+    "totalQuestions": 9,
+    "questionTypes": {
+      "single": 6,
+      "multiple": 0,
+      "judge": 3,
+      "image": 0
+    }
+  },
+  "questions": [
+    {
+      "stem": "一个三角形的两个内角分别是45度和60度，第三个内角是多少度？",
+      "type": "single",
+      "options": [
+        "75度",
+        "85度",
+        "95度",
+        "105度"
+      ],
+      "answer": 0,
+      "analysis": "三角形内角和是180度，所以第三个内角 = 180 - 45 - 60 = 75度。",
+      "difficulty": 2,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "一个平行四边形的相邻两条边分别是7厘米和9厘米，它的对边长度分别是多少？",
+      "type": "single",
+      "options": [
+        "7厘米和9厘米",
+        "9厘米和7厘米",
+        "7厘米和7厘米",
+        "9厘米和9厘米"
+      ],
+      "answer": 0,
+      "analysis": "平行四边形对边平行且相等，所以与7厘米相邻的对边也是7厘米，与9厘米相邻的对边也是9厘米。",
+      "difficulty": 2,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "一个正方形的边长是5分米，它的四条边长度都相等。",
+      "type": "judge",
+      "options": [
+        "是",
+        "否"
+      ],
+      "answer": "是",
+      "analysis": "正方形有四条相等的边，所以边长都是5分米，说法正确。",
+      "difficulty": 1,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "一个圆的半径是3厘米，它的周长是6π厘米。",
+      "type": "judge",
+      "options": [
+        "是",
+        "否"
+      ],
+      "answer": "是",
+      "analysis": "圆的周长公式是2πr，半径r=3厘米，周长=2×π×3=6π厘米，说法正确。",
+      "difficulty": 3,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "下列哪个是质数？",
+      "type": "single",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "9"
+      ],
+      "answer": 2,
+      "analysis": "质数是只有1和它本身两个因数的数。4=2×2，6=2×3，9=3×3，它们都有除1和本身以外的因数；7只有1和7两个因数，所以7是质数。",
+      "difficulty": 1,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "0 是偶数。",
+      "type": "judge",
+      "options": [
+        "是",
+        "否"
+      ],
+      "answer": "是",
+      "analysis": "能被2整除的整数是偶数。0÷2=0，没有余数，所以0能被2整除，0是偶数。",
+      "difficulty": 2,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "12 的因数有几个？",
+      "type": "single",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "analysis": "12的因数有1、2、3、4、6、12，一共6个，所以选C。",
+      "difficulty": 3,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "一个平行四边形的相邻两边分别为7厘米和5厘米，且其中一条边上的高为4厘米。下列关于这个平行四边形的说法，正确的是（ ）。",
+      "type": "single",
+      "options": [
+        "它的四条边都相等",
+        "它的对边互相平行且长度相等",
+        "它只有一组对边平行",
+        "它的四个角都是直角"
+      ],
+      "answer": 1,
+      "analysis": "平行四边形的特征是两组对边分别平行且相等。四条边都相等是菱形（正方形也满足）的特征，只有一组对边平行是梯形，四个角都是直角是长方形，因此只有“对边互相平行且长度相等”正确。",
+      "difficulty": 2,
+      "tags": [],
+      "knowledgePoint": null
+    },
+    {
+      "stem": "一个平行四边形的底是9厘米，高是6厘米，与它等底等高的三角形的面积是多少平方厘米？",
+      "type": "single",
+      "options": [
+        "54",
+        "27",
+        "30",
+        "18"
+      ],
+      "answer": 1,
+      "analysis": "平行四边形面积=底×高=9×6=54平方厘米，等底等高的三角形面积是平行四边形的一半，即54÷2=27平方厘米。",
+      "difficulty": 2,
+      "tags": [],
+      "knowledgePoint": null
+    }
+  ]
+}
